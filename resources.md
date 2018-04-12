@@ -29,6 +29,7 @@
     * [SICP Collections](https://docs.racket-lang.org/sicp-manual/index.html)
     * [Setting up DrRacket for SICP](https://louischristopher.me/setting-up-drracket-for-sicp)
 
+* [MIT Scheme](https://www.gnu.org/software/mit-scheme/)
 * [Chicken Scheme](https://www.call-cc.org/)
 * [Gerbil Scheme](https://github.com/vyzo/gerbil)
 * [Gambit Scheme](https://github.com/gambit/gambit)
