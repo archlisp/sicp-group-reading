@@ -37,7 +37,7 @@
 
 ## Common Lisp
 
-* [Common Lisp and Rosewell](https://github.com/roswell/roswell)
+* [Common Lisp and Roswell](https://github.com/roswell/roswell)
 
 ## Clojure
 
