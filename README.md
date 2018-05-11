@@ -12,3 +12,5 @@ Please feel free to improve things by contributing!  Pull requests, wiki updates
 ## Meeting Notes
 
 [April 12, 2018](2018-04-12.md)
+
+[May 10, 2018](2018-05-10.md)
