@@ -7,7 +7,7 @@ Please feel free to improve things by contributing!  Pull requests, wiki updates
 [0]: http://mitpress.mit.edu/sites/default/files/sicp/index.html
 [1]: https://www.meetup.com/Arch-Lisp/
 
-[Resources](https://github.com/archlisp/sicp-group-reading/blob/master/resources.md)
+[Resources](resources.md)
 
 ## Meeting Notes
 
