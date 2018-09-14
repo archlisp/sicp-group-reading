@@ -14,3 +14,7 @@ Please feel free to improve things by contributing!  Pull requests, wiki updates
 [April 12, 2018](2018-04-12.md)
 
 [May 10, 2018](2018-05-10.md)
+
+August 9, 2018: [`lecture-2a.rkt`](lecture-2a.rkt]
+
+[September 13, 2018](2018-09.13.md)
