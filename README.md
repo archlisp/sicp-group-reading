@@ -17,4 +17,4 @@ Please feel free to improve things by contributing!  Pull requests, wiki updates
 
 August 9, 2018: [`lecture-2a.rkt`](lecture-2a.rkt)
 
-[September 13, 2018](2018-09.13.md)
+[September 13, 2018](2018-09-13.md)
